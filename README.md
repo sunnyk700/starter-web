@@ -1,11 +1,12 @@
 # Starter Web Project
+as central
 
 ## Introduction
-e
+This repository is for showing how Git and GitHub work 
 
-This repository is for showing how Git and GitHub work
 
 ## Purpose
+the purpose of git 
 
 ## Deployment
 
