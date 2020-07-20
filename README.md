@@ -11,8 +11,8 @@ the purpose of git
 ## Deployment
 
 deploy
+## Git Comparision
+how to compare
 
-
-Sample website with plenty of files for demos
-
-## How to contribute
+##GITHub Content
+compare with Repo
